@@ -1,7 +1,7 @@
 # LLM-Safety-Reports
 
 # 🛡️ AI Audit Lab | Mornielov
-> ************************** <
+> 
 
 Bienvenido al nodo de auditoría técnica. Este repositorio documenta fallos de lógica, alucinaciones críticas y comportamientos imprevistos en modelos de lenguaje de código abierto (Open Source).
 
