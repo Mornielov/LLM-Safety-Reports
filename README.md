@@ -42,15 +42,15 @@ Note: Each case uses Summary + Scope + Techniques only.
 ⚔️ Técnicas: roleplay jailbreaks.
 
 # 👤 Quick profile · Perfil rápido
-🎯 Focus / Enfoque: LLM security, agent security, RAG security, evaluation.
+### 🎯 Focus / Enfoque: LLM security, agent security, RAG security, evaluation.
 
-📦 Deliverables / Entregables: Red-team reports, threat models, test harnesses, guardrails.
+### 📦 Deliverables / Entregables: Red-team reports, threat models, test harnesses, guardrails.
 
-🧪 Methods / Métodos: ATT&CK-style mapping, adversarial testing, reproducible PoC.
+### 🧪 Methods / Métodos: ATT&CK-style mapping, adversarial testing, reproducible PoC.
 
-📬 Contact · Contacto
-📧 Email: mornielov@gmail.com
+### 📬 Contact · Contacto
+### 📧 Email: mornielov@gmail.com
 
-📍 Location / Zona horaria: Europe/Madrid (Spain 🇪🇸)
+### 📍 Location / Zona horaria: Europe/Madrid (Spain 🇪🇸)
 
-📝 Nota: Incluye alcance, feas y si se pueden compartir datos para pruebas.
+📝 Nota: Incluye alcance, fechas y si se pueden compartir datos para pruebas.
